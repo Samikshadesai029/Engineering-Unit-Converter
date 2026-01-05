@@ -11,3 +11,14 @@ A Java Command Line Interface (CLI) application developed to perform high-precis
 ## 🛠️ How to Run
 1. Compile: javac Converter.java
 2. Run: java Converter
+   
+## 🧪 Quality Assurance (QA) & Testing
+To ensure engineering-grade accuracy, the following test cases were performed using the system's logic:
+
+| Test Case | Input Category | Input Value | Expected Result |
+| :--- | :--- | :--- | :--- |
+| T1 | Pressure (Pa) | 100,000 | 14.5038 PSI |
+| T2 | Power (Watts) | 745.7 | 1.00 hp |
+| T3 | Temperature (C)| 25 | 298.15 K |
+
+*Testing Methodology:* Accuracy was verified against standard physical constants. Precision is maintained up to 4 decimal places for Pressure calculations.
