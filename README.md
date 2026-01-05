@@ -22,3 +22,5 @@ To ensure engineering-grade accuracy, the following test cases were performed us
 | T3 | Temperature (C)| 25 | 298.15 K |
 
 *Testing Methodology:* Accuracy was verified against standard physical constants. Precision is maintained up to 4 decimal places for Pressure calculations.
+## 🤖 Future AI Integration
+Planned features include using Natural Language Processing (NLP) to allow users to type "Convert 50 Pascals to PSI" directly, rather than using a menu system, improving user efficiency.
